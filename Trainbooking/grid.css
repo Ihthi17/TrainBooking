@@ -1,0 +1,29 @@
+table{
+    border-width:600px;
+    border-style: solid black;
+   
+}
+button{
+ margin-left: 40%;
+    width: 100px;
+    height: 35px;
+    background-color: cadetblue;
+    color: white;
+}
+.image{
+    background-image: url(images/7.jpg);
+    border: 100px;
+   
+    height: 800px;
+}
+.para
+{
+    background-image: url(images/7.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: solid brown;
+    border-width: 400px;
+    width: 800px;
+    height: 400px;
+    color: rgb(228, 105, 34);
+    font-size: 25px;
+}  
